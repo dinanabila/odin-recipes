@@ -1,0 +1,12 @@
+* {
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: "Times New Roman", serif;
+}
+
+ul, ol {
+	background-color: yellow; 
+}
